@@ -1,1 +1,1 @@
-# React-todo
+# Todo
